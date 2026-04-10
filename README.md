@@ -1,7 +1,7 @@
 # Customer_Behavior_Analysis
 data analysis project showcasing customer behavior analysis using python, sql and power BI.
 
-👨‍💻 # Customer Behavior Data Analysis Project
+# 👨‍💻 Customer Behavior Data Analysis Project
 
 📌 Overview
 This project is an end-to-end data analytics case study where I analyzed customer shopping behavior to uncover meaningful business insights.
