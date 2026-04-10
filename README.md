@@ -81,7 +81,7 @@ Building business dashboards in Power BI
 Turning data into actionable insights
 
 
-#👨‍💼 About Me
+# 👨‍💼 About Me
 
 I am an aspiring Data Analyst passionate about working with data and solving real-world business problems.
 
